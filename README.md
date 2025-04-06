@@ -1,7 +1,7 @@
 
 # Self-Healing Cloud Infrastructure
 
-This project automates enterprise cloud infrastructure deployment with AWS SysOps and RHCSA best practices.
+This project automates enterprise cloud infrastructure deployment.
 
 ## Features:
 - Terraform for AWS provisioning
